@@ -2,7 +2,7 @@
 
 I'm a Frontend developer from Hungary, currently working with [Bene Studio](https://www.benestudio.co). I am very enthusiastic when I can create new things. 
 
-- 🔭 I’m currently working on Magenta TV.
+- 🔭  I’m currently working on Magenta TV.
 
 <!--
 **kicomeister/kicomeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

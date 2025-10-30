@@ -1,6 +1,6 @@
 ### Hi there, I'm Krisztian  👋
 
-I'm a fullstack javascript developer, currently working with [Technis](https://www.technis.com). I am very enthusiastic when I can create new things. 
+I'm a fullstack engineer, currently working with [Technis](https://www.technis.com). I am very enthusiastic when I can create new things. 
 
 <!--
 **kicomeister/kicomeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
